@@ -1,0 +1,104 @@
+DELETE http://localhost:5000/api/movies/3?m_name=Jerry&m_duration=60
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-29T041059.200.json
+
+###
+
+DELETE http://localhost:5000/api/movies/3?m_name=Jerry&m_duration=60
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-29T041049.500.html
+
+###
+
+DELETE http://localhost:5000/api/movies/3?m_name=Jerry&m_duration=60
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-29T040957.500.html
+
+###
+
+DELETE http://localhost:5000/api/movies/3?m_name=Jerry&m_duration=60
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-29T040948.200.json
+
+###
+
+POST http://localhost:5000/api/movies?m_name=Jerry&m_duration=60
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-29T040505.200.json
+
+###
+
+POST http://localhost:5000/api/movies/1?m_name=Tom&m_duration=60
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-29T040441.200.json
+
+###
+
+POST http://localhost:5000/api/movies?m_name=小白龙&m_duration=60
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-29T035015.200.json
+
+###
+
+POST http://localhost:5000/api/movies?m_name=三藏&m_duration=60
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-29T034842.500.html
+
+###
+
+POST http://localhost:5000/api/movies?m_name=沙和尚&m_duration=60
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-29T033959.200.html
+
+###
+
+POST http://localhost:5000/api/movies?m_name=二师兄&m_duration=60
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-29T033632.200.html
+
+###
+
+POST http://localhost:5000/api/movies?m_name=二师兄&m_duration=60
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-29T033537.500.html
+
+###
+
+POST http://localhost:5000/api/movies?m_name=二师兄&m_duration=60
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-29T033515.405.html
+
+###
+
+POST http://localhost:5000/api/movies?m_name=二师兄&m_duration=60
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-29T033446.405.html
+
+###
+

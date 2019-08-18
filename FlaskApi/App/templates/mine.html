@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mine</title>
+</head>
+<body>
+
+    <h3>欢迎回来:{{ username }}</h3>
+
+    <ul>
+        {% for movie in movies %}
+            <li>{{ movie.m_name }}</li>
+        {% endfor %}
+
+    </ul>
+
+</body>
+</html>
